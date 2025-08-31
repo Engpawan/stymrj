@@ -8,7 +8,7 @@
 # This is Pawan Sharma 👋 ![](https://komarev.com/ghpvc/?username=stymrj&color=brightgreen&style=flat)
 
 <p align="center">
-  <a href="https://github.com/stymrj/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!!!;I%20am%20%20Learning%20Cloud%20Computing%20And%20Blockchain;An%20Android%20App%20Developer;Self-taught;1.5%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/Engpawan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!!!;I%20am%20%20Learning%20Cloud%20Computing%20And%20Blockchain;An%20Android%20App%20Developer;Self-taught;1.5%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on improving my development skills
 - 👯 I’m looking to make more friends.
 - ⚡ I’m looking for help with contributing to open source projects
-- 💬 Ask me about tech related stuffs at <a href="mailto:sstymrj@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+- 💬 Ask me about tech related stuffs at <a href="mailto:shpawan79@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 ## Connect With Me 
 ###  I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
@@ -29,15 +29,11 @@
 
 </p>
 <p align="left">
-<a href="https://twitter.com/satyamguptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyamguptt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stymrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stymrj" height="30" width="40" /></a>
-<a href="https://fb.com/satyamguptt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satyamguptt" height="30" width="40" /></a>
-<a href="https://instagram.com/stymg__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stymg__" height="30" width="40" /></a>
-<a href="https://medium.com/sstymrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sstymrj" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/stymrj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="stymrj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/stymrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stymrj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/stymrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stymrj" height="30" width="40" /></a>
-<a href="https://discord.gg/stymrj#0272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="stymrj#0272" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pawan-sharma-859a52237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pawan" height="30" width="40" /></a>
+<a href="https://instagram.com/pawan35744/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan_" height="30" width="40" /></a>
+<a href="https://medium.com/Engpawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pawan_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pawan_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pawan_" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/shpawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pawan_" height="30" width="40" /></a>
 </p>
 
 ## About Me
@@ -48,9 +44,9 @@
   
 
 - 📫 How to reach me:
-<a href="https://www.linkedin.com/in/stymrj/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:sstymrj@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/stymg__"><img src="https://img.shields.io/badge/-@stymg__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/pawan-sharma-859a52237/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:shpawan79@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://instagram.com/pawan35744_"><img src="https://img.shields.io/badge/-@stymg__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
 ## Operating System & Tools
@@ -90,10 +86,10 @@
  ## 📈 Stats
  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stymrj&show_icons=true&hide_border=truel&count_private=true&show_icons=true&hide=,contribs&include_all_commits" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=stymrj&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pawan_sh&show_icons=true&hide_border=truel&count_private=true&show_icons=true&hide=,contribs&include_all_commits" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pawan&hide_border=true" />
 </p>
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/stymrj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="stymrj" /></a><a href="https://ko-fi.com/stymrj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="stymrj" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/pawan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pawan" /></a><a href="https://ko-fi.com/pawan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pawan" /></a></p><br><br>
